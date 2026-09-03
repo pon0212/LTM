@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "TCP_Sever\\TCP_Sever.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "TCP_Client\\TCP_Client.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

@@ -1,0 +1,14 @@
+F:\LTM\Buoi01\2033240244_NguyenThiPhuongNhung_Lab01\2033240244_NguyenThiPhuongNhung\Client_PhepTinh\bin\Debug\net8.0\Client_PhepTinh.exe
+F:\LTM\Buoi01\2033240244_NguyenThiPhuongNhung_Lab01\2033240244_NguyenThiPhuongNhung\Client_PhepTinh\bin\Debug\net8.0\Client_PhepTinh.deps.json
+F:\LTM\Buoi01\2033240244_NguyenThiPhuongNhung_Lab01\2033240244_NguyenThiPhuongNhung\Client_PhepTinh\bin\Debug\net8.0\Client_PhepTinh.runtimeconfig.json
+F:\LTM\Buoi01\2033240244_NguyenThiPhuongNhung_Lab01\2033240244_NguyenThiPhuongNhung\Client_PhepTinh\bin\Debug\net8.0\Client_PhepTinh.dll
+F:\LTM\Buoi01\2033240244_NguyenThiPhuongNhung_Lab01\2033240244_NguyenThiPhuongNhung\Client_PhepTinh\bin\Debug\net8.0\Client_PhepTinh.pdb
+F:\LTM\Buoi01\2033240244_NguyenThiPhuongNhung_Lab01\2033240244_NguyenThiPhuongNhung\Client_PhepTinh\obj\Debug\net8.0\Client_PhepTinh.GeneratedMSBuildEditorConfig.editorconfig
+F:\LTM\Buoi01\2033240244_NguyenThiPhuongNhung_Lab01\2033240244_NguyenThiPhuongNhung\Client_PhepTinh\obj\Debug\net8.0\Client_PhepTinh.AssemblyInfoInputs.cache
+F:\LTM\Buoi01\2033240244_NguyenThiPhuongNhung_Lab01\2033240244_NguyenThiPhuongNhung\Client_PhepTinh\obj\Debug\net8.0\Client_PhepTinh.AssemblyInfo.cs
+F:\LTM\Buoi01\2033240244_NguyenThiPhuongNhung_Lab01\2033240244_NguyenThiPhuongNhung\Client_PhepTinh\obj\Debug\net8.0\Client_PhepTinh.csproj.CoreCompileInputs.cache
+F:\LTM\Buoi01\2033240244_NguyenThiPhuongNhung_Lab01\2033240244_NguyenThiPhuongNhung\Client_PhepTinh\obj\Debug\net8.0\Client_PhepTinh.dll
+F:\LTM\Buoi01\2033240244_NguyenThiPhuongNhung_Lab01\2033240244_NguyenThiPhuongNhung\Client_PhepTinh\obj\Debug\net8.0\refint\Client_PhepTinh.dll
+F:\LTM\Buoi01\2033240244_NguyenThiPhuongNhung_Lab01\2033240244_NguyenThiPhuongNhung\Client_PhepTinh\obj\Debug\net8.0\Client_PhepTinh.pdb
+F:\LTM\Buoi01\2033240244_NguyenThiPhuongNhung_Lab01\2033240244_NguyenThiPhuongNhung\Client_PhepTinh\obj\Debug\net8.0\Client_PhepTinh.genruntimeconfig.cache
+F:\LTM\Buoi01\2033240244_NguyenThiPhuongNhung_Lab01\2033240244_NguyenThiPhuongNhung\Client_PhepTinh\obj\Debug\net8.0\ref\Client_PhepTinh.dll

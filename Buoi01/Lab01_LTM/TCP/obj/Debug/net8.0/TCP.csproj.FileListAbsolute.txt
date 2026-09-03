@@ -1,0 +1,14 @@
+D:\Lab01_LTM\TCP\bin\Debug\net8.0\TCP.exe
+D:\Lab01_LTM\TCP\bin\Debug\net8.0\TCP.deps.json
+D:\Lab01_LTM\TCP\bin\Debug\net8.0\TCP.runtimeconfig.json
+D:\Lab01_LTM\TCP\bin\Debug\net8.0\TCP.dll
+D:\Lab01_LTM\TCP\bin\Debug\net8.0\TCP.pdb
+D:\Lab01_LTM\TCP\obj\Debug\net8.0\TCP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lab01_LTM\TCP\obj\Debug\net8.0\TCP.AssemblyInfoInputs.cache
+D:\Lab01_LTM\TCP\obj\Debug\net8.0\TCP.AssemblyInfo.cs
+D:\Lab01_LTM\TCP\obj\Debug\net8.0\TCP.csproj.CoreCompileInputs.cache
+D:\Lab01_LTM\TCP\obj\Debug\net8.0\TCP.dll
+D:\Lab01_LTM\TCP\obj\Debug\net8.0\refint\TCP.dll
+D:\Lab01_LTM\TCP\obj\Debug\net8.0\TCP.pdb
+D:\Lab01_LTM\TCP\obj\Debug\net8.0\TCP.genruntimeconfig.cache
+D:\Lab01_LTM\TCP\obj\Debug\net8.0\ref\TCP.dll

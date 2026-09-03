@@ -1,0 +1,14 @@
+D:\Lab01_LTM\Client\bin\Debug\net8.0\Client.exe
+D:\Lab01_LTM\Client\bin\Debug\net8.0\Client.deps.json
+D:\Lab01_LTM\Client\bin\Debug\net8.0\Client.runtimeconfig.json
+D:\Lab01_LTM\Client\bin\Debug\net8.0\Client.dll
+D:\Lab01_LTM\Client\bin\Debug\net8.0\Client.pdb
+D:\Lab01_LTM\Client\obj\Debug\net8.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lab01_LTM\Client\obj\Debug\net8.0\Client.AssemblyInfoInputs.cache
+D:\Lab01_LTM\Client\obj\Debug\net8.0\Client.AssemblyInfo.cs
+D:\Lab01_LTM\Client\obj\Debug\net8.0\Client.csproj.CoreCompileInputs.cache
+D:\Lab01_LTM\Client\obj\Debug\net8.0\Client.dll
+D:\Lab01_LTM\Client\obj\Debug\net8.0\refint\Client.dll
+D:\Lab01_LTM\Client\obj\Debug\net8.0\Client.pdb
+D:\Lab01_LTM\Client\obj\Debug\net8.0\Client.genruntimeconfig.cache
+D:\Lab01_LTM\Client\obj\Debug\net8.0\ref\Client.dll

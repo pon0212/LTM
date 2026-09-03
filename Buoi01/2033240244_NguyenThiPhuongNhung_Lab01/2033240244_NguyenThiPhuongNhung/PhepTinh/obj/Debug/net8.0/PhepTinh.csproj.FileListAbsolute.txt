@@ -1,0 +1,14 @@
+F:\LTM\Buoi01\2033240244_NguyenThiPhuongNhung_Lab01\2033240244_NguyenThiPhuongNhung\PhepTinh\bin\Debug\net8.0\PhepTinh.exe
+F:\LTM\Buoi01\2033240244_NguyenThiPhuongNhung_Lab01\2033240244_NguyenThiPhuongNhung\PhepTinh\bin\Debug\net8.0\PhepTinh.deps.json
+F:\LTM\Buoi01\2033240244_NguyenThiPhuongNhung_Lab01\2033240244_NguyenThiPhuongNhung\PhepTinh\bin\Debug\net8.0\PhepTinh.runtimeconfig.json
+F:\LTM\Buoi01\2033240244_NguyenThiPhuongNhung_Lab01\2033240244_NguyenThiPhuongNhung\PhepTinh\bin\Debug\net8.0\PhepTinh.dll
+F:\LTM\Buoi01\2033240244_NguyenThiPhuongNhung_Lab01\2033240244_NguyenThiPhuongNhung\PhepTinh\bin\Debug\net8.0\PhepTinh.pdb
+F:\LTM\Buoi01\2033240244_NguyenThiPhuongNhung_Lab01\2033240244_NguyenThiPhuongNhung\PhepTinh\obj\Debug\net8.0\PhepTinh.GeneratedMSBuildEditorConfig.editorconfig
+F:\LTM\Buoi01\2033240244_NguyenThiPhuongNhung_Lab01\2033240244_NguyenThiPhuongNhung\PhepTinh\obj\Debug\net8.0\PhepTinh.AssemblyInfoInputs.cache
+F:\LTM\Buoi01\2033240244_NguyenThiPhuongNhung_Lab01\2033240244_NguyenThiPhuongNhung\PhepTinh\obj\Debug\net8.0\PhepTinh.AssemblyInfo.cs
+F:\LTM\Buoi01\2033240244_NguyenThiPhuongNhung_Lab01\2033240244_NguyenThiPhuongNhung\PhepTinh\obj\Debug\net8.0\PhepTinh.csproj.CoreCompileInputs.cache
+F:\LTM\Buoi01\2033240244_NguyenThiPhuongNhung_Lab01\2033240244_NguyenThiPhuongNhung\PhepTinh\obj\Debug\net8.0\PhepTinh.dll
+F:\LTM\Buoi01\2033240244_NguyenThiPhuongNhung_Lab01\2033240244_NguyenThiPhuongNhung\PhepTinh\obj\Debug\net8.0\refint\PhepTinh.dll
+F:\LTM\Buoi01\2033240244_NguyenThiPhuongNhung_Lab01\2033240244_NguyenThiPhuongNhung\PhepTinh\obj\Debug\net8.0\PhepTinh.pdb
+F:\LTM\Buoi01\2033240244_NguyenThiPhuongNhung_Lab01\2033240244_NguyenThiPhuongNhung\PhepTinh\obj\Debug\net8.0\PhepTinh.genruntimeconfig.cache
+F:\LTM\Buoi01\2033240244_NguyenThiPhuongNhung_Lab01\2033240244_NguyenThiPhuongNhung\PhepTinh\obj\Debug\net8.0\ref\PhepTinh.dll

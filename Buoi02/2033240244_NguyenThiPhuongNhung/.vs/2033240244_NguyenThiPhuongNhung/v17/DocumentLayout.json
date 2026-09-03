@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2033240244_NguyenThiPhuongNhung\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB855EE-863E-499A-8663-AB2CEA45D5FA}|TCP_Sever\\TCP_Sever.csproj|d:\\2033240244_nguyenthiphuongnhung\\tcp_sever\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDB855EE-863E-499A-8663-AB2CEA45D5FA}|TCP_Sever\\TCP_Sever.csproj|solutionrelative:tcp_sever\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616789D0-561F-4599-AD83-F864AF8C3409}|TCP_Client\\TCP_Client.csproj|d:\\2033240244_nguyenthiphuongnhung\\tcp_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{616789D0-561F-4599-AD83-F864AF8C3409}|TCP_Client\\TCP_Client.csproj|solutionrelative:tcp_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\2033240244_NguyenThiPhuongNhung\\TCP_Client\\Program.cs",
+              "RelativeDocumentMoniker": "TCP_Client\\Program.cs",
+              "ToolTip": "D:\\2033240244_NguyenThiPhuongNhung\\TCP_Client\\Program.cs",
+              "RelativeToolTip": "TCP_Client\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T09:42:14.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\2033240244_NguyenThiPhuongNhung\\TCP_Sever\\Program.cs",
+              "RelativeDocumentMoniker": "TCP_Sever\\Program.cs",
+              "ToolTip": "D:\\2033240244_NguyenThiPhuongNhung\\TCP_Sever\\Program.cs",
+              "RelativeToolTip": "TCP_Sever\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T09:19:17.727Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
