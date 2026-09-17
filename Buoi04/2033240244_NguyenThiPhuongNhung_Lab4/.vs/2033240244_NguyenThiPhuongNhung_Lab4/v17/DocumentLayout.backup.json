@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LTM\\Buoi04\\2033240244_NguyenThiPhuongNhung_Lab4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B433B1-EE98-40DB-9231-3A8B7D9B266B}|UDPServer\\UDPServer.csproj|d:\\ltm\\buoi04\\2033240244_nguyenthiphuongnhung_lab4\\udpserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3B433B1-EE98-40DB-9231-3A8B7D9B266B}|UDPServer\\UDPServer.csproj|solutionrelative:udpserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{598791F3-CE6C-44FF-B9E6-8F7FE6BBC876}|UDPClient\\UDPClient.csproj|d:\\ltm\\buoi04\\2033240244_nguyenthiphuongnhung_lab4\\udpclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{598791F3-CE6C-44FF-B9E6-8F7FE6BBC876}|UDPClient\\UDPClient.csproj|solutionrelative:udpclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LTM\\Buoi04\\2033240244_NguyenThiPhuongNhung_Lab4\\UDPClient\\Program.cs",
+              "RelativeDocumentMoniker": "UDPClient\\Program.cs",
+              "ToolTip": "D:\\LTM\\Buoi04\\2033240244_NguyenThiPhuongNhung_Lab4\\UDPClient\\Program.cs",
+              "RelativeToolTip": "UDPClient\\Program.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAqwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T04:46:29.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LTM\\Buoi04\\2033240244_NguyenThiPhuongNhung_Lab4\\UDPServer\\Program.cs",
+              "RelativeDocumentMoniker": "UDPServer\\Program.cs",
+              "ToolTip": "D:\\LTM\\Buoi04\\2033240244_NguyenThiPhuongNhung_Lab4\\UDPServer\\Program.cs",
+              "RelativeToolTip": "UDPServer\\Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAmwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T03:22:00.669Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

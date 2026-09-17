@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\LTM\\Buoi03\\2033240244_NguyenThiPhuongNhung_Lab3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{783D8255-2342-40AB-AD3E-F8994BE8AFE2}|Chat.Client\\Chat.Client.csproj|d:\\ltm\\buoi03\\2033240244_nguyenthiphuongnhung_lab3\\chat.client\\networking\\chatclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{783D8255-2342-40AB-AD3E-F8994BE8AFE2}|Chat.Client\\Chat.Client.csproj|solutionrelative:chat.client\\networking\\chatclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{783D8255-2342-40AB-AD3E-F8994BE8AFE2}|Chat.Client\\Chat.Client.csproj|d:\\ltm\\buoi03\\2033240244_nguyenthiphuongnhung_lab3\\chat.client\\clientform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{783D8255-2342-40AB-AD3E-F8994BE8AFE2}|Chat.Client\\Chat.Client.csproj|solutionrelative:chat.client\\clientform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{783D8255-2342-40AB-AD3E-F8994BE8AFE2}|Chat.Client\\Chat.Client.csproj|d:\\ltm\\buoi03\\2033240244_nguyenthiphuongnhung_lab3\\chat.client\\clientform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{783D8255-2342-40AB-AD3E-F8994BE8AFE2}|Chat.Client\\Chat.Client.csproj|solutionrelative:chat.client\\clientform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783D8255-2342-40AB-AD3E-F8994BE8AFE2}|Chat.Client\\Chat.Client.csproj|d:\\ltm\\buoi03\\2033240244_nguyenthiphuongnhung_lab3\\chat.client\\networking\\chatclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783D8255-2342-40AB-AD3E-F8994BE8AFE2}|Chat.Client\\Chat.Client.csproj|solutionrelative:chat.client\\networking\\chatclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{783D8255-2342-40AB-AD3E-F8994BE8AFE2}|Chat.Client\\Chat.Client.csproj|d:\\ltm\\buoi03\\2033240244_nguyenthiphuongnhung_lab3\\chat.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,7 +39,7 @@
       "RelativeMoniker": "D:0:0:{EE717EB5-10D6-4E63-9C4A-24C265AAA429}|Chat.Server\\Chat.Server.csproj|solutionrelative:chat.server\\serverform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE717EB5-10D6-4E63-9C4A-24C265AAA429}|Chat.Server\\Chat.Server.csproj|d:\\ltm\\buoi03\\2033240244_nguyenthiphuongnhung_lab3\\chat.server\\serverform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{EE717EB5-10D6-4E63-9C4A-24C265AAA429}|Chat.Server\\Chat.Server.csproj|D:\\LTM\\Buoi03\\2033240244_NguyenThiPhuongNhung_Lab3\\chat.server\\serverform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EE717EB5-10D6-4E63-9C4A-24C265AAA429}|Chat.Server\\Chat.Server.csproj|solutionrelative:chat.server\\serverform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -50,11 +54,27 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "ClientForm.resx",
+              "DocumentMoniker": "D:\\LTM\\Buoi03\\2033240244_NguyenThiPhuongNhung_Lab3\\Chat.Client\\ClientForm.resx",
+              "RelativeDocumentMoniker": "Chat.Client\\ClientForm.resx",
+              "ToolTip": "D:\\LTM\\Buoi03\\2033240244_NguyenThiPhuongNhung_Lab3\\Chat.Client\\ClientForm.resx",
+              "RelativeToolTip": "Chat.Client\\ClientForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-09-17T03:27:44.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ChatServer.cs",
               "DocumentMoniker": "D:\\LTM\\Buoi03\\2033240244_NguyenThiPhuongNhung_Lab3\\Chat.Server\\Networking\\ChatServer.cs",
               "RelativeDocumentMoniker": "Chat.Server\\Networking\\ChatServer.cs",
@@ -62,12 +82,11 @@
               "RelativeToolTip": "Chat.Server\\Networking\\ChatServer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-25T10:50:41.903Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-25T10:50:41.903Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ClientSession.cs",
               "DocumentMoniker": "D:\\LTM\\Buoi03\\2033240244_NguyenThiPhuongNhung_Lab3\\Chat.Server\\Networking\\ClientSession.cs",
               "RelativeDocumentMoniker": "Chat.Server\\Networking\\ClientSession.cs",
@@ -75,12 +94,11 @@
               "RelativeToolTip": "Chat.Server\\Networking\\ClientSession.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-25T10:50:40.715Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-25T10:50:40.715Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\LTM\\Buoi03\\2033240244_NguyenThiPhuongNhung_Lab3\\Chat.Server\\Program.cs",
               "RelativeDocumentMoniker": "Chat.Server\\Program.cs",
@@ -88,18 +106,17 @@
               "RelativeToolTip": "Chat.Server\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-25T10:50:39.493Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-25T10:50:39.493Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ChatClient.cs",
               "DocumentMoniker": "D:\\LTM\\Buoi03\\2033240244_NguyenThiPhuongNhung_Lab3\\Chat.Client\\Networking\\ChatClient.cs",
               "RelativeDocumentMoniker": "Chat.Client\\Networking\\ChatClient.cs",
               "ToolTip": "D:\\LTM\\Buoi03\\2033240244_NguyenThiPhuongNhung_Lab3\\Chat.Client\\Networking\\ChatClient.cs",
               "RelativeToolTip": "Chat.Client\\Networking\\ChatClient.cs",
-              "ViewState": "AgIAAM4AAAAAAAAAAAAcwNYAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowA4AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-25T10:49:47.173Z",
               "EditorCaption": ""
@@ -119,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\LTM\\Buoi03\\2033240244_NguyenThiPhuongNhung_Lab3\\Chat.Client\\Program.cs",
               "RelativeDocumentMoniker": "Chat.Client\\Program.cs",
@@ -127,12 +144,11 @@
               "RelativeToolTip": "Chat.Client\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-25T10:49:32.744Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-25T10:49:32.744Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ServerForm.Designer.cs",
               "DocumentMoniker": "D:\\LTM\\Buoi03\\2033240244_NguyenThiPhuongNhung_Lab3\\Chat.Server\\ServerForm.Designer.cs",
               "RelativeDocumentMoniker": "Chat.Server\\ServerForm.Designer.cs",
@@ -140,36 +156,33 @@
               "RelativeToolTip": "Chat.Server\\ServerForm.Designer.cs",
               "ViewState": "AgIAADoBAAAAAAAAAAAAAIEAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-25T10:45:18.786Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-25T10:45:18.786Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ServerForm.resx",
               "DocumentMoniker": "D:\\LTM\\Buoi03\\2033240244_NguyenThiPhuongNhung_Lab3\\Chat.Server\\ServerForm.resx",
               "RelativeDocumentMoniker": "Chat.Server\\ServerForm.resx",
               "ToolTip": "D:\\LTM\\Buoi03\\2033240244_NguyenThiPhuongNhung_Lab3\\Chat.Server\\ServerForm.resx",
               "RelativeToolTip": "Chat.Server\\ServerForm.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2026-08-25T10:45:17.91Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-25T10:45:17.91Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "ServerForm.cs [Design]",
               "DocumentMoniker": "D:\\LTM\\Buoi03\\2033240244_NguyenThiPhuongNhung_Lab3\\Chat.Server\\ServerForm.cs",
               "RelativeDocumentMoniker": "Chat.Server\\ServerForm.cs",
               "ToolTip": "D:\\LTM\\Buoi03\\2033240244_NguyenThiPhuongNhung_Lab3\\Chat.Server\\ServerForm.cs [Design]",
               "RelativeToolTip": "Chat.Server\\ServerForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-25T10:45:13.408Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-08-25T10:45:13.408Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "ServerForm.cs",
               "DocumentMoniker": "D:\\LTM\\Buoi03\\2033240244_NguyenThiPhuongNhung_Lab3\\Chat.Server\\ServerForm.cs",
               "RelativeDocumentMoniker": "Chat.Server\\ServerForm.cs",
@@ -177,8 +190,7 @@
               "RelativeToolTip": "Chat.Server\\ServerForm.cs",
               "ViewState": "AgIAAHUAAAAAAAAAAAAowIgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-25T10:42:38.765Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-25T10:42:38.765Z"
             }
           ]
         }
