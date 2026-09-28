@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LTM\\Buoi06\\2033240244_NguyenThiPhuongNhung_Lab6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6988BB13-6406-41C5-9C39-1379A10A88DB}|FileSocketClient\\FileSocketClient.csproj|d:\\ltm\\buoi06\\2033240244_nguyenthiphuongnhung_lab6\\filesocketclient\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6988BB13-6406-41C5-9C39-1379A10A88DB}|FileSocketClient\\FileSocketClient.csproj|solutionrelative:filesocketclient\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6988BB13-6406-41C5-9C39-1379A10A88DB}|FileSocketClient\\FileSocketClient.csproj|d:\\ltm\\buoi06\\2033240244_nguyenthiphuongnhung_lab6\\filesocketclient\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6988BB13-6406-41C5-9C39-1379A10A88DB}|FileSocketClient\\FileSocketClient.csproj|solutionrelative:filesocketclient\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6988BB13-6406-41C5-9C39-1379A10A88DB}|FileSocketClient\\FileSocketClient.csproj|d:\\ltm\\buoi06\\2033240244_nguyenthiphuongnhung_lab6\\filesocketclient\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6988BB13-6406-41C5-9C39-1379A10A88DB}|FileSocketClient\\FileSocketClient.csproj|solutionrelative:filesocketclient\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6988BB13-6406-41C5-9C39-1379A10A88DB}|FileSocketClient\\FileSocketClient.csproj|d:\\ltm\\buoi06\\2033240244_nguyenthiphuongnhung_lab6\\filesocketclient\\services\\fileclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6988BB13-6406-41C5-9C39-1379A10A88DB}|FileSocketClient\\FileSocketClient.csproj|solutionrelative:filesocketclient\\services\\fileclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{416A755F-FBE5-4A79-BAD5-8C4779CCBC45}|FileSocketServer\\FileSocketServer.csproj|d:\\ltm\\buoi06\\2033240244_nguyenthiphuongnhung_lab6\\filesocketserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{416A755F-FBE5-4A79-BAD5-8C4779CCBC45}|FileSocketServer\\FileSocketServer.csproj|solutionrelative:filesocketserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{416A755F-FBE5-4A79-BAD5-8C4779CCBC45}|FileSocketServer\\FileSocketServer.csproj|d:\\ltm\\buoi06\\2033240244_nguyenthiphuongnhung_lab6\\filesocketserver\\services\\fileserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{416A755F-FBE5-4A79-BAD5-8C4779CCBC45}|FileSocketServer\\FileSocketServer.csproj|solutionrelative:filesocketserver\\services\\fileserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D6DF40-5260-43E6-A27D-7B64073BF100}|FileTransfer.Shared\\FileTransfer.Shared.csproj|d:\\ltm\\buoi06\\2033240244_nguyenthiphuongnhung_lab6\\filetransfer.shared\\networkprotocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8D6DF40-5260-43E6-A27D-7B64073BF100}|FileTransfer.Shared\\FileTransfer.Shared.csproj|solutionrelative:filetransfer.shared\\networkprotocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D6DF40-5260-43E6-A27D-7B64073BF100}|FileTransfer.Shared\\FileTransfer.Shared.csproj|d:\\ltm\\buoi06\\2033240244_nguyenthiphuongnhung_lab6\\filetransfer.shared\\downloadresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8D6DF40-5260-43E6-A27D-7B64073BF100}|FileTransfer.Shared\\FileTransfer.Shared.csproj|solutionrelative:filetransfer.shared\\downloadresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D6DF40-5260-43E6-A27D-7B64073BF100}|FileTransfer.Shared\\FileTransfer.Shared.csproj|d:\\ltm\\buoi06\\2033240244_nguyenthiphuongnhung_lab6\\filetransfer.shared\\downloadrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8D6DF40-5260-43E6-A27D-7B64073BF100}|FileTransfer.Shared\\FileTransfer.Shared.csproj|solutionrelative:filetransfer.shared\\downloadrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "D:\\LTM\\Buoi06\\2033240244_NguyenThiPhuongNhung_Lab6\\FileSocketClient\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "FileSocketClient\\MainForm.Designer.cs",
+              "ToolTip": "D:\\LTM\\Buoi06\\2033240244_NguyenThiPhuongNhung_Lab6\\FileSocketClient\\MainForm.Designer.cs",
+              "RelativeToolTip": "FileSocketClient\\MainForm.Designer.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAUwLEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T10:52:36.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\LTM\\Buoi06\\2033240244_NguyenThiPhuongNhung_Lab6\\FileSocketClient\\MainForm.cs",
+              "RelativeDocumentMoniker": "FileSocketClient\\MainForm.cs",
+              "ToolTip": "D:\\LTM\\Buoi06\\2033240244_NguyenThiPhuongNhung_Lab6\\FileSocketClient\\MainForm.cs",
+              "RelativeToolTip": "FileSocketClient\\MainForm.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAqwDUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T10:50:20.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileClientService.cs",
+              "DocumentMoniker": "D:\\LTM\\Buoi06\\2033240244_NguyenThiPhuongNhung_Lab6\\FileSocketClient\\Services\\FileClientService.cs",
+              "RelativeDocumentMoniker": "FileSocketClient\\Services\\FileClientService.cs",
+              "ToolTip": "D:\\LTM\\Buoi06\\2033240244_NguyenThiPhuongNhung_Lab6\\FileSocketClient\\Services\\FileClientService.cs",
+              "RelativeToolTip": "FileSocketClient\\Services\\FileClientService.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAAAJ4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T10:42:09.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NetworkProtocol.cs",
+              "DocumentMoniker": "D:\\LTM\\Buoi06\\2033240244_NguyenThiPhuongNhung_Lab6\\FileTransfer.Shared\\NetworkProtocol.cs",
+              "RelativeDocumentMoniker": "FileTransfer.Shared\\NetworkProtocol.cs",
+              "ToolTip": "D:\\LTM\\Buoi06\\2033240244_NguyenThiPhuongNhung_Lab6\\FileTransfer.Shared\\NetworkProtocol.cs",
+              "RelativeToolTip": "FileTransfer.Shared\\NetworkProtocol.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAFEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T10:25:36.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DownloadResponse.cs",
+              "DocumentMoniker": "D:\\LTM\\Buoi06\\2033240244_NguyenThiPhuongNhung_Lab6\\FileTransfer.Shared\\DownloadResponse.cs",
+              "RelativeDocumentMoniker": "FileTransfer.Shared\\DownloadResponse.cs",
+              "ToolTip": "D:\\LTM\\Buoi06\\2033240244_NguyenThiPhuongNhung_Lab6\\FileTransfer.Shared\\DownloadResponse.cs",
+              "RelativeToolTip": "FileTransfer.Shared\\DownloadResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T10:21:28.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\LTM\\Buoi06\\2033240244_NguyenThiPhuongNhung_Lab6\\FileSocketClient\\MainForm.cs",
+              "RelativeDocumentMoniker": "FileSocketClient\\MainForm.cs",
+              "ToolTip": "D:\\LTM\\Buoi06\\2033240244_NguyenThiPhuongNhung_Lab6\\FileSocketClient\\MainForm.cs [Design]",
+              "RelativeToolTip": "FileSocketClient\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T10:16:53.331Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileServer.cs",
+              "DocumentMoniker": "D:\\LTM\\Buoi06\\2033240244_NguyenThiPhuongNhung_Lab6\\FileSocketServer\\Services\\FileServer.cs",
+              "RelativeDocumentMoniker": "FileSocketServer\\Services\\FileServer.cs",
+              "ToolTip": "D:\\LTM\\Buoi06\\2033240244_NguyenThiPhuongNhung_Lab6\\FileSocketServer\\Services\\FileServer.cs",
+              "RelativeToolTip": "FileSocketServer\\Services\\FileServer.cs",
+              "ViewState": "AgIAAHIBAAAAAAAAAAAwwIoBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T10:30:24.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DownloadRequest.cs",
+              "DocumentMoniker": "D:\\LTM\\Buoi06\\2033240244_NguyenThiPhuongNhung_Lab6\\FileTransfer.Shared\\DownloadRequest.cs",
+              "RelativeDocumentMoniker": "FileTransfer.Shared\\DownloadRequest.cs",
+              "ToolTip": "D:\\LTM\\Buoi06\\2033240244_NguyenThiPhuongNhung_Lab6\\FileTransfer.Shared\\DownloadRequest.cs",
+              "RelativeToolTip": "FileTransfer.Shared\\DownloadRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T10:20:19.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LTM\\Buoi06\\2033240244_NguyenThiPhuongNhung_Lab6\\FileSocketServer\\Program.cs",
+              "RelativeDocumentMoniker": "FileSocketServer\\Program.cs",
+              "ToolTip": "D:\\LTM\\Buoi06\\2033240244_NguyenThiPhuongNhung_Lab6\\FileSocketServer\\Program.cs",
+              "RelativeToolTip": "FileSocketServer\\Program.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAAwG8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T10:14:59.52Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
