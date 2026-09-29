@@ -1,0 +1,6 @@
+﻿STT,Server,RemoteFile,LocalFile,Status,Size,TimeMs,AverageSpeed
+1,localhost:9200,Test.zip,Downloads/S2_Test.zip,SUCCESS,204,2081,0.00
+2,localhost:9100,Test.zip,Downloads/S1_Test.zip,SUCCESS,204,2081,0.00
+3,localhost:9200,XinChao.txt,Downloads/S2_XinChao.txt,SUCCESS,207,2081,0.00
+4,localhost:9100,XinChao.txt,Downloads/S1_XinChao.txt,SUCCESS,207,2081,0.00
+5,localhost:9100,BigFile.bin,Downloads/S1_BigFile.bin,SUCCESS,120000000,2466,46.39

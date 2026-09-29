@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Midterm.FileServer\\Midterm.FileServer.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Midterm.FileClient\\Midterm.FileClient.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

@@ -1,0 +1,8 @@
+# Dinh dang:
+# <Host>:<Port> <RemoteFile> <LocalFile>
+
+localhost:9100 XinChao.txt Downloads/S1_XinChao.txt
+localhost:9100 Test.zip Downloads/S1_Test.zip
+localhost:9100 BigFile.bin Downloads/S1_BigFile.bin
+localhost:9200 XinChao.txt Downloads/S2_XinChao.txt
+localhost:9200 Test.zip Downloads/S2_Test.zip
