@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LTM\\WebSocket\\LabWebSocket\\LabWebSocket\\SensorNode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5005B3-20E2-464B-9F93-8D8A073DD123}|SensorNode.csproj|d:\\ltm\\websocket\\labwebsocket\\labwebsocket\\sensornode\\sensornode.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AA5005B3-20E2-464B-9F93-8D8A073DD123}|SensorNode.csproj|solutionrelative:sensornode.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SensorNode.csproj",
+              "DocumentMoniker": "D:\\LTM\\WebSocket\\LabWebSocket\\LabWebSocket\\SensorNode\\SensorNode.csproj",
+              "RelativeDocumentMoniker": "SensorNode.csproj",
+              "ToolTip": "D:\\LTM\\WebSocket\\LabWebSocket\\LabWebSocket\\SensorNode\\SensorNode.csproj",
+              "RelativeToolTip": "SensorNode.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-06T02:05:52.454Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

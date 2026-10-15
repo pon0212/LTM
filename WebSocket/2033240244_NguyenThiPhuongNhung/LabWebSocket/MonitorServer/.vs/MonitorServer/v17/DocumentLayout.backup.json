@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\lap_trinh_mang\\Vovancuong\\LabWebSocket\\MonitorServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2EF787-39A1-4DCE-BAD8-3792F14ED5CD}|MonitorServer.csproj|f:\\lap_trinh_mang\\vovancuong\\labwebsocket\\monitorserver\\monitorserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FA2EF787-39A1-4DCE-BAD8-3792F14ED5CD}|MonitorServer.csproj|solutionrelative:monitorserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2EF787-39A1-4DCE-BAD8-3792F14ED5CD}|MonitorServer.csproj|f:\\lap_trinh_mang\\vovancuong\\labwebsocket\\monitorserver\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FA2EF787-39A1-4DCE-BAD8-3792F14ED5CD}|MonitorServer.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2EF787-39A1-4DCE-BAD8-3792F14ED5CD}|MonitorServer.csproj|f:\\lap_trinh_mang\\vovancuong\\labwebsocket\\monitorserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FA2EF787-39A1-4DCE-BAD8-3792F14ED5CD}|MonitorServer.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MonitorServer",
+              "DocumentMoniker": "F:\\lap_trinh_mang\\Vovancuong\\LabWebSocket\\MonitorServer\\MonitorServer.csproj",
+              "RelativeDocumentMoniker": "MonitorServer.csproj",
+              "ToolTip": "F:\\lap_trinh_mang\\Vovancuong\\LabWebSocket\\MonitorServer\\MonitorServer.csproj",
+              "RelativeToolTip": "MonitorServer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-06T02:01:54.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "F:\\lap_trinh_mang\\Vovancuong\\LabWebSocket\\MonitorServer\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "F:\\lap_trinh_mang\\Vovancuong\\LabWebSocket\\MonitorServer\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-06T02:01:51.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\lap_trinh_mang\\Vovancuong\\LabWebSocket\\MonitorServer\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "F:\\lap_trinh_mang\\Vovancuong\\LabWebSocket\\MonitorServer\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-06T02:01:48.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

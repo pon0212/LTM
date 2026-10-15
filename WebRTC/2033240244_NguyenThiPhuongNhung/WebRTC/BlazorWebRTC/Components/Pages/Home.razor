@@ -1,0 +1,40 @@
+﻿@page "/"
+@rendermode InteractiveServer
+@inject IJSRuntime JS
+
+<PageTitle>WebRTC Chat</PageTitle>
+
+<h3>WebRTC Video Chat & Data Channel</h3>
+
+<div style="display: flex; gap: 10px; margin-bottom: 20px;">
+    <video id="localVideo" autoplay playsinline style="width: 400px; height: 300px; background: black;"></video>
+    <video id="remoteVideo" autoplay playsinline style="width: 400px; height: 300px; background: black;"></video>
+</div>
+
+<div style="margin-bottom: 20px;">
+    <button class="btn btn-primary" @onclick="InitializeConnection">1. Initialize Connection</button>
+    <button class="btn btn-success" @onclick="StartCall">2. Start Call</button>
+</div>
+
+<hr />
+<h4>Chat</h4>
+<div>
+    <input class="form-control" style="width: 300px; display: inline-block;" @bind="message" placeholder="Nhập tin nhắn..." />
+    <button class="btn btn-info" @onclick="SendMessage">Gửi</button>
+</div>
+
+@code {
+    private string message = string.Empty;
+
+    private async Task InitializeConnection()
+        => await JS.InvokeVoidAsync("webRTCInterop.initializeConnection");
+
+    private async Task StartCall()
+        => await JS.InvokeVoidAsync("webRTCInterop.startCall");
+
+    private async Task SendMessage()
+    {
+        await JS.InvokeVoidAsync("webRTCInterop.sendMessage", message);
+        message = string.Empty;
+    }
+}
